@@ -11,13 +11,13 @@ The main purpose of this project is to demonstrate the basic usage of Next.js, a
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Jayant818/Event-Viewer.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-       cd project-directory
+       cd event-viewer
    ```
 
    Install the dependencies:
